@@ -2,14 +2,16 @@
 home: true
 heroText: 关于我
 tagline: 唯党和信仰不可辜负
-heroImage: /hero2.png
-heroImageStyle: {
-  maxWidth: 100vw !important,
-  width: 100vw !important,
-  height: 658px !important,
-  max-height: 685px !important,
-  display: block,
-}
+# heroImage: /hero2.png
+# heroImageStyle: {
+#   maxWidth: 100vw !important,
+#   width: 100vw !important,
+#   height: 658px !important,
+#   max-height: 685px !important,
+#   background: url(/hero2.png) no-repeat !important,
+#   background-size: cover !important,
+#   display: block,
+# }
 bgImageStyle: {
   height: 490px
 }
