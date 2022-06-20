@@ -1,0 +1,15 @@
+.hero h1,
+.hero p {
+    width: 100vw;
+    color: #fff;
+    position: absolute;
+    margin: 0 auto;
+}
+
+.hero h1 {
+    top: 20px;
+}
+
+.hero p {
+    top: 60px;
+}
